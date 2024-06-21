@@ -17,10 +17,10 @@ const App = () => {
                         </li>
                     </ul>
                 </nav>
-                {/* <Routes>
+                <Routes>
                     <Route path="/register" element={<Register />} />
                     <Route path="/login" element={<Login />} />
-                </Routes> */}
+                </Routes>
             </div>
         </Router>
     );
